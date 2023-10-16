@@ -7,7 +7,7 @@
     text-decoration: none;
 }
 
-body {
+.body {
     font-size: 100%;
     background:linear-gradient(68.15deg, #502f35 16.62%, #d6a4e1cd 85.61%);
 }
@@ -142,6 +142,3 @@ box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
     display: block;
     margin: 0 auto;
 }
-
-#2f2325
-#8E5D52
